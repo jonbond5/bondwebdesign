@@ -1,0 +1,25 @@
+.page-title{
+    text-align: center;
+    color: white;
+}
+
+.call-to-action{
+    width: 100%;
+}
+
+.hire{
+    height: 50px;
+    padding: 25px 50px;
+    margin-left: auto;
+}
+
+.box{
+    margin: auto;
+    box-shadow: 0px 0px 60px 5px black;
+    width: 80%;
+}
+
+.bordered-image{
+    border: 3px solid black;
+    border-radius:50%;
+}

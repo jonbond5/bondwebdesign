@@ -1,0 +1,115 @@
+/*Text rules*/
+p, h1, h2, h3, h4, h5, h6, li{
+    font-family: Raleway;
+    margin:0;
+}
+
+h1{
+    font-size: 5em;
+}
+
+h2{
+    font-size: 4em;
+}
+
+h3{
+    font-size: 3em;
+}
+
+h4{
+    font-size: 2em;
+}
+
+h5{
+    font-size: 1em;
+}
+
+p{
+    font-size: 1.25em;
+}
+
+/* Main content */
+body{
+    width:100%;
+    margin: 0;
+}
+
+div{
+    margin: 0;
+}
+
+/* Easy styles 
+The following are quick ref. styles; 
+e.g.: rather than style=background-color:green use class=green*/
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.graphite{
+    background-color: #333;
+}
+.black{
+    background-size: black;
+}
+.grey{
+    background-color: #ddd;
+}
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: blue;
+}
+.text-green{
+    color: green;
+}
+.text-grey{
+    color: #ddd;
+}
+.text-graphite{
+    color:#333;
+}
+
+.inline-flex{
+    display: inline-flex;
+}
+
+.vertical-align{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+}
+
+.padding-bottom-medium{
+    padding-bottom: 100px;
+}
+
+.col-2{
+    width: 50%;
+    float: left;
+}
+
+.col-3{
+    width: 33%;
+    float: left;
+}
+
+.row{
+    width:100%;
+}
+
+.circle{
+    border-radius:50%;
+}

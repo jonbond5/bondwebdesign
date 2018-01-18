@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bull",
+				"bullish_engulfing_dates"
+			],
+			[
+				"bear",
+				"bearish_engulfing_dates"
+			],
+			[
+				"doji",
+				"doji_dates"
+			],
+			[
+				"doj",
+				"doji_scale"
+			],
+			[
+				"stock",
+				"stock_list_filename"
+			],
+			[
+				"data",
+				"data_key"
+			],
+			[
+				"fit",
+				"fit_key"
+			],
+			[
+				"sem",
+				"semilogx"
+			],
+			[
+				"semi",
+				"semilogy"
+			],
+			[
+				"de",
+				"dependents"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cha",
+				"channels"
+			],
+			[
+				"chann",
+				"channels_iterator"
+			],
+			[
+				"ch",
+				"channels_iterator"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"ret",
+				"returned"
+			],
+			[
+				"st",
+				"starting_indices"
+			],
+			[
+				"find",
+				"find_max_2"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"stok",
+				"stock_list"
+			],
+			[
+				"n",
+				"number_of_problems"
+			],
+			[
+				"add",
+				"addConflict"
+			],
+			[
+				"proj",
+				"proj1"
+			],
+			[
+				"pr",
+				"proj2"
+			],
+			[
+				"proble",
+				"problem_projects"
+			],
+			[
+				"file",
+				"file_string"
+			],
+			[
+				"a",
+				"x_axis"
+			],
+			[
+				"x",
+				"x_axis"
+			],
+			[
+				"csv",
+				"csv_data"
+			],
+			[
+				"histor",
+				"history_request"
+			],
+			[
+				"hi",
+				"history_request"
+			],
+			[
+				"sigmoi",
+				"sigmoid"
+			],
+			[
+				"test_",
+				"test_data"
+			],
+			[
+				"acti",
+				"activations"
+			],
+			[
+				"nab",
+				"nabla_w"
+			],
+			[
+				"mini",
+				"mini_batches"
+			],
+			[
+				"del",
+				"delta_nabla_w"
+			],
+			[
+				"na",
+				"nabla_w"
+			],
+			[
+				"nabla",
+				"nabla_b"
+			],
+			[
+				"min",
+				"mini_batch"
+			],
+			[
+				"mini_bat",
+				"mini_batch"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"qwer",
+				"qwerty_values"
+			],
+			[
+				"qw",
+				"qwerty3"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3070,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main_style.css",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "misc.css",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sizes.css",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "special_effects.css",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "floo",
+		"selected_items":
+		[
+			[
+				"floo",
+				"Floobits - Delete Workspace"
+			],
+			[
+				"flootbits",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Gameplay/Data/Eras.xml",
+		"/C/Users/Jonathan/Github/bondwebdesign/index.html",
+		"/C/Users/Jonathan/Github/bondwebdesign/main_style.css",
+		"/C/Users/Jonathan/Github/bondwebdesign/misc.css",
+		"/C/Users/Jonathan/Github/bondwebdesign/sizes.css",
+		"/C/Users/Jonathan/Github/bondwebdesign/special_effects.css",
+		"/C/Users/Jonathan/Github/stock_requests/stock.py",
+		"/C/Users/Jonathan/Github/stock_requests/helper/stock_patterns.py",
+		"/C/Users/Jonathan/Github/stock_requests/tests/test_find_patterns.py",
+		"/C/Users/Jonathan/Github/stock_requests/stock_patterns.py",
+		"/C/Users/Jonathan/Github/stock_requests/helper/stock_predictions.py",
+		"/C/Python27/Lib/site-packages/matplotlib/pyplot.py",
+		"/D/GitHub/stock_requests/stock.py",
+		"/D/GitHub/stock_requests/stock_patterns.py",
+		"/D/GitHub/stock_requests/tests/test_find_patterns.py",
+		"/D/GitHub/stock_requests/generate_virtual_market.py",
+		"/D/GitHub/stock_requests/generate_symbols_file.py",
+		"/D/GitHub/stock_requests/custom_exceptions.py",
+		"/D/GitHub/stock_requests/helper/stock_predictions.py",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Units.xml",
+		"/D/GitHub/stock_requests/stock_predictions.py",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Italy.modinfo",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Civilizations.xml",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Config.xml",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Leaders.xml",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Text.xml",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Colours.xml",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_Civ6-Italy.zip/Civ6-Italy/Data/Italy_Buildings.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/Civ6-Italy/Data/Italy_Leaders.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/DLC/Aztec_Montezuma/Data/Aztec_Montezuma_GameplayData.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/DLC/Aztec_Montezuma/Data/Building_Huey_Teocalli.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Civ6.dep",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/Civ6-Italy/Italy.dep",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/DLC/Aztec_Montezuma/Aztec_Montezuma.modinfo",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/gamechangers.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/ai+ (v9).modinfo",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/behaviortrees.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/minor.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/core.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/diplomacy.xml",
+		"/C/Users/Jonathan/Documents/My Games/Sid Meier's Civilization VI/Mods/AI+/military_zerg.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Gameplay/Data/Modifiers.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Gameplay/Data/Buildings.xml",
+		"/C/Users/Jonathan/Documents/College/Physics 440/ilab_A.py",
+		"/D/GitHub/bondwebdesign/main_style.css",
+		"/D/GitHub/bondwebdesign/misc.css",
+		"/D/GitHub/bondwebdesign/sizes.css",
+		"/D/GitHub/bondwebdesign/special_effects.css",
+		"/C/Users/Jonathan/Documents/College/Physics 440/iLab_warmup.py",
+		"/D/GitHub/bondwebdesign/index.html",
+		"/C/Users/Jonathan/Documents/College/Physics 440/test.py",
+		"/C/Python27/Tools/Scripts/google.py",
+		"/C/Users/Jonathan/Downloads/iLab-20170218T210039Z/iLab/sanity_restart.py",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Gameplay/Data/Civilizations.xml",
+		"/C/Users/Jonathan/Desktop/VirtualBox.xml",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/Scripts/SetupParameters.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/Civ6Common.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/WorldBuilderPlayerEditor.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/FrontEnd/GameSetupLogic.lua",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_No More Shaka (v 1).zip/No More Shaka (v 1)/No More Shaka (v 1).modinfo",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/FrontEnd/PlayerSetupLogic.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/Choosers/CivicsChooser.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/Options.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/Test.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/WorldBuilder.lua",
+		"/C/Users/Jonathan/Documents/STATS scripts/combinations.py",
+		"/C/Users/Jonathan/Documents/STATS scripts/permutation.py",
+		"/C/Users/Jonathan/Downloads/pend_max_extractor.py",
+		"/C/Users/Jonathan/Downloads/pend_max_extractor_new.py",
+		"/D/GitHub/stock_requests/stock_symbols.py",
+		"/C/Users/Jonathan/AppData/Local/Temp/Temp1_AI+.zip/AI+/ai+ (v9).modinfo",
+		"/D/GitHub/stock_requests/custom_exeptions.py",
+		"/D/Temp Projects/MPOWER/Priority_Metrics/road_heat.py",
+		"/D/Temp Projects/MPOWER/Priority_Metrics/project_proximity.py",
+		"/D/Temp Projects/MPOWER/data.py",
+		"/D/GitHub/stock_requests/main.py",
+		"/D/GitHub/stock_requests/remove.py",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/UI/FrontEnd/AdvancedSetup.lua",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Scenarios/NapoleonScenario/NapoleonScenario.modinfo",
+		"/D/Steam/SteamApps/common/Sid Meier's Civilization VI/Base/Assets/Scenarios/NapoleonScenario/NapoleonScenario_StartScript.lua",
+		"/D/Programming/Neural Nets/network2.py",
+		"/D/Programming/Neural Nets/network.py",
+		"/D/Programming/Neural Nets/neural-networks-and-deep-learning-master/src/mnist_loader.py",
+		"/D/Programming/Nueral Nets/simple_neural_net.py",
+		"/C/New folder/healthhack/server/app_server.py",
+		"/C/New folder/healthhack/server/server.py",
+		"/C/Users/Jonathan/Desktop/Posting with $.post/server/server.py",
+		"/C/Users/Jonathan/Desktop/plecprep/style.css",
+		"/C/Users/Jonathan/Desktop/plecprep/server.py",
+		"/C/Users/Jonathan/Desktop/plecprep/edit_prof_list.html",
+		"/C/Users/Jonathan/Desktop/plecprep/script.js",
+		"/C/Users/Jonathan/Desktop/script.js",
+		"/C/Users/Jonathan/Desktop/style.css",
+		"/C/Users/Jonathan/Desktop/edit_prof_list.html",
+		"/D/GitHub/HackUMass/app_server.py",
+		"/D/GitHub/tool_bag/python_flask.md",
+		"/D/GitHub/tool_bag/pymongo-mongodb.md",
+		"/D/GitHub/simple-autocorrector/auto-corrector.py",
+		"/D/GitHub/tool_bag/git.md",
+		"/D/GitHub/tool_bag/README.md",
+		"/D/GitHub/tool_bag/vimrc",
+		"/C/Users/Jonathan/Desktop/test.html",
+		"/C/Users/Jonathan/Desktop/test.js",
+		"/C/Users/Jonathan/Desktop/HackUMass/carterscodeforsendingimages.py",
+		"/C/Users/Jonathan/Desktop/HackUMass/socketthing.py",
+		"/C/Users/Jonathan/Documents/fnclient.py",
+		"/C/Users/Jonathan/Desktop/BCCHacks/Server/server.py",
+		"/C/New folder/masshelp/hamp_hacks/last_try.py",
+		"/C/Users/Jonathan/Desktop/QM-HW1.py",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/contact.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/footer.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/officers.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/projects.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/info.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_layouts/default.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/css/custom.css",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/head.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_posts/2016-04-29-Blob.markdown",
+		"/D/GitHub/UMassHackathonTeam.github.io/_posts/2016-03-27-ShellScribe.markdown",
+		"/D/GitHub/UMassHackathonTeam.github.io/_posts/2014-09-21-services-1.markdown",
+		"/D/GitHub/UMassHackathonTeam.github.io/_posts/2016-02-27-MassHelp.markdown",
+		"/D/GitHub/UMassHackathonTeam.github.io/_includes/page_content.html",
+		"/D/GitHub/UMassHackathonTeam.github.io/_posts/2014-09-23-services-3.markdown",
+		"/C/Users/Jonathan/Documents/Django/tutorials/mysite/mysite/urls.py",
+		"/C/New folder/masshelp/last_try.py",
+		"/C/Users/Jonathan/floobits/keith989sports/healthhack/creds.txt",
+		"/C/Users/Jonathan/floobits/keith989sports/healthhack/test.py",
+		"/C/Users/Jonathan/floobits/keith989sports/healthhack/.flooignore"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TRAIT_CIVILIZATION_BUILDING_ARCH",
+			"y",
+			"x",
+			"a",
+			"background-",
+			"BARBARIAN",
+			"GetPlayerInfo",
+			"RANDOM",
+			"playerConfig",
+			"PlayerConfigurations",
+			"playerConf",
+			"SetLeaderName",
+			"random",
+			"stock_symbol",
+			">",
+			"reference",
+			"*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dependents",
+			"independents",
+			"row",
+			"",
+			"symbol",
+			"",
+			"**"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2985,
+								2985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 922.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main_style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "misc.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sizes.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "special_effects.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
